@@ -1,14 +1,13 @@
-Riconoscimento di Oggetti e Colori Specifici con Computer Vision
+🖼️ Riconoscimento di Oggetti e Colori Specifici con Computer Vision
 Questo progetto dimostra le mie capacità nell'implementare una soluzione elegante a uno dei problemi più comuni nel campo della visione artificiale: il riconoscimento di oggetti e colori specifici per varie applicazioni pratiche.
 
-Descrizione del Progetto
+📜 Descrizione del Progetto
 Il progetto si focalizza sul riconoscimento di oggetti e sulla rilevazione di colori specifici all'interno di immagini o flussi video. Utilizza librerie di elaborazione delle immagini come OpenCV e Pillow, oltre a strumenti di calcolo scientifico come NumPy, per offrire una soluzione robusta e flessibile.
 
-Requisiti
+🛠️ Requisiti
 Per eseguire questo progetto, sono necessari i seguenti requisiti:
 
 Python: Versione 3.12.4
 Pillow: Libreria per la manipolazione delle immagini
 NumPy: Libreria per il calcolo scientifico
 OpenCV: Libreria per la visione artificiale
-
