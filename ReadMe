@@ -1,0 +1,16 @@
+In questo progetto ho testato le mie capacità nel implementARE un 
+soluzioine elegante ad uno dei problemi più comuni legati al mendo della computer vision. il riconoscimento di oggetti e di colori
+
+Buona visione: !! 
+
+Requisiti necessari per il progetto: 
+
+Python versione: 3.12.4 
+pip Versione: 24.0
+pyllow Versione: 
+numpy Versione:
+OpenCV Version: 
+
+
+Dato che l'esperiemnto si terrà con la cam di un dispositivo locale in principio dovremo creare un collegamento con la cam: 
+
